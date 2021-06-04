@@ -7,10 +7,6 @@ The equation is
 
 The R script `simulation_parameters` shows behavior of the free parameter _c_. 
 
-<p align="center">
-  <img src="https://github.com/jealcalat/gaussian-plus-linear/blob/main/c.png" width="100"/>
-</p>
-
- <img src="https://github.com/jealcalat/gaussian-plus-linear/blob/main/c.png" width="100"/>
+ <img src="https://github.com/jealcalat/gaussian-plus-linear/blob/main/c.png" width="200"/>
 
 The R script `gauss_lin_nls` have a function to fit the Gaussian+linear model using `nlxb`, the Nash variant of the Marquardt nonlinear least squares.
