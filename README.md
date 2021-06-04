@@ -1,6 +1,4 @@
-# R code used in the analysis of 
-
-**"Similar attention and performance in female and male CD1 mice in the peak procedure"** (Eudave, Alcalá, Buriticá & dos Santos, 2021)
+**R code used in the analysis of "Similar attention and performance in female and male CD1 mice in the peak procedure"** (Eudave, Alcalá, Buriticá & dos Santos, 2021)
 
 ## Gaussian plus linear ramp
 
