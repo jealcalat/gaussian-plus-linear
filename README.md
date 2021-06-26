@@ -1,4 +1,4 @@
-# Repository of Eudave, Alcalá, dos Santos & Buriticá, 2021 
+# Repository of Eudave-Patiño, Alcalá, dos Santos & Buriticá, 2021 
 
 R code used in the analysis of "Similar attention and performance in female and male CD1 mice in the peak procedure".
 
